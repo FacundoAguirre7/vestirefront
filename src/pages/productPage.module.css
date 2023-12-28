@@ -1,0 +1,23 @@
+.button {
+  font-size: 0.75rem;
+}
+
+.desc {
+  font-size: 0.85rem;
+}
+
+.color {
+  width: 0.75rem;
+  height: 0.75rem;
+}
+
+.talle {
+  width: 2rem;
+  height: 2rem;
+  padding: 1rem;
+  border: solid black 0.1rem;
+}
+
+.desContainer {
+  border-bottom: solid black 0.1rem;
+}
